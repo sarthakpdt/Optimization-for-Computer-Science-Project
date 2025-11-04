@@ -1,0 +1,101 @@
+Patient ID,Name,Age,Gender,Department,Diagnosis,Admission Date,Discharge Date,Treatment
+001,Patient 1,72,Male,ENT,Trauma,2025-04-07,2025-04-20,Medication
+002,Patient 2,48,Male,Urology,Depression,2025-04-03,2025-04-17,Inhaler
+003,Patient 3,26,Male,Cardiology,Trauma,2025-04-06,2025-04-10,Medication
+004,Patient 4,68,Female,ENT,Asthma,2025-04-26,2025-04-29,Inhaler
+005,Patient 5,80,Female,Psychiatry,Hypertension,2025-05-01,2025-05-10,Therapy
+006,Patient 6,27,Male,Psychiatry,Trauma,2025-04-21,2025-04-25,Radiation
+007,Patient 7,46,Female,Plastic Surgery,Skin Infection,2025-04-08,2025-04-13,Surgery
+008,Patient 8,39,Male,Pediatrics,Hypertension,2025-04-29,2025-05-03,Radiation
+009,Patient 9,33,Male,Plastic Surgery,Heart Failure,2025-04-02,2025-04-06,Radiation
+010,Patient 10,65,Male,ENT,Kidney Stones,2025-04-21,2025-04-28,Therapy
+011,Patient 11,32,Female,Plastic Surgery,Asthma,2025-04-21,2025-05-03,Inhaler
+012,Patient 12,23,Female,Psychiatry,Heart Failure,2025-04-22,2025-05-04,Medication
+013,Patient 13,56,Male,ENT,Kidney Stones,2025-04-26,2025-05-01,Inhaler
+014,Patient 14,66,Male,ENT,Fractured Leg,2025-04-25,2025-05-09,Inhaler
+015,Patient 15,75,Female,General Medicine,Cataracts,2025-04-07,2025-04-17,Surgery
+016,Patient 16,42,Female,Orthopedics,Hypertension,2025-04-17,2025-04-20,Surgery
+017,Patient 17,78,Female,General Medicine,Asthma,2025-04-17,2025-04-18,Therapy
+018,Patient 18,24,Male,ENT,Hypertension,2025-04-28,2025-05-01,Medication
+019,Patient 19,61,Female,Psychiatry,Ear Infection,2025-04-01,2025-04-14,Inhaler
+020,Patient 20,41,Male,Plastic Surgery,Heart Failure,2025-04-09,2025-04-22,Inhaler
+021,Patient 21,28,Female,Pediatrics,Trauma,2025-04-26,2025-05-09,Therapy
+022,Patient 22,67,Female,Plastic Surgery,Asthma,2025-04-02,2025-04-11,Therapy
+023,Patient 23,39,Female,Psychiatry,Trauma,2025-04-20,2025-04-27,Surgery
+024,Patient 24,31,Male,Ophthalmology,Depression,2025-04-23,2025-04-28,Therapy
+025,Patient 25,74,Male,Urology,Trauma,2025-04-10,2025-04-22,Medication
+026,Patient 26,54,Male,ENT,Cataracts,2025-04-20,2025-05-01,Inhaler
+027,Patient 27,78,Female,Dermatology,Skin Infection,2025-04-29,2025-05-06,Therapy
+028,Patient 28,76,Female,Pediatrics,Ear Infection,2025-04-14,2025-04-16,Inhaler
+029,Patient 29,27,Male,Plastic Surgery,Depression,2025-04-27,2025-05-10,Medication
+030,Patient 30,37,Female,ENT,Ear Infection,2025-04-25,2025-05-01,Medication
+031,Patient 31,58,Male,Pediatrics,Ear Infection,2025-04-05,2025-04-12,Radiation
+032,Patient 32,58,Female,Pediatrics,Heart Failure,2025-04-29,2025-05-13,Inhaler
+033,Patient 33,65,Male,Plastic Surgery,Skin Infection,2025-04-24,2025-04-26,Surgery
+034,Patient 34,54,Female,Urology,Depression,2025-04-18,2025-04-29,Radiation
+035,Patient 35,26,Female,Orthopedics,Hypertension,2025-04-23,2025-05-03,Inhaler
+036,Patient 36,56,Female,Orthopedics,Kidney Stones,2025-04-27,2025-04-30,Inhaler
+037,Patient 37,35,Female,Pediatrics,Kidney Stones,2025-04-06,2025-04-10,Inhaler
+038,Patient 38,32,Male,Urology,Kidney Stones,2025-04-29,2025-04-30,Surgery
+039,Patient 39,64,Male,Urology,Fractured Leg,2025-04-08,2025-04-19,Therapy
+040,Patient 40,59,Male,Ophthalmology,Cataracts,2025-04-09,2025-04-12,Medication
+041,Patient 41,43,Female,Cardiology,Trauma,2025-04-30,2025-05-09,Radiation
+042,Patient 42,71,Male,Orthopedics,Skin Infection,2025-04-24,2025-05-03,Inhaler
+043,Patient 43,41,Female,ENT,Kidney Stones,2025-04-01,2025-04-05,Inhaler
+044,Patient 44,25,Female,Psychiatry,Cataracts,2025-04-07,2025-04-09,Surgery
+045,Patient 45,54,Male,Psychiatry,Heart Failure,2025-04-15,2025-04-24,Inhaler
+046,Patient 46,22,Female,Dermatology,Cataracts,2025-04-27,2025-05-03,Therapy
+047,Patient 47,26,Female,Cardiology,Trauma,2025-04-20,2025-04-25,Surgery
+048,Patient 48,69,Female,ENT,Depression,2025-04-12,2025-04-13,Therapy
+049,Patient 49,45,Male,Plastic Surgery,Asthma,2025-04-20,2025-04-27,Medication
+050,Patient 50,30,Female,General Medicine,Cataracts,2025-04-18,2025-05-02,Therapy
+051,Patient 51,37,Female,Pediatrics,Cataracts,2025-04-15,2025-04-22,Medication
+052,Patient 52,50,Male,Plastic Surgery,Heart Failure,2025-04-16,2025-04-25,Therapy
+053,Patient 53,78,Female,Cardiology,Fractured Leg,2025-04-24,2025-04-25,Therapy
+054,Patient 54,62,Male,Orthopedics,Cataracts,2025-04-03,2025-04-12,Radiation
+055,Patient 55,53,Male,Dermatology,Asthma,2025-04-26,2025-05-04,Therapy
+056,Patient 56,36,Female,Pediatrics,Depression,2025-04-25,2025-04-30,Radiation
+057,Patient 57,28,Male,Dermatology,Fractured Leg,2025-04-21,2025-04-23,Surgery
+058,Patient 58,56,Male,Dermatology,Fractured Leg,2025-04-21,2025-05-01,Surgery
+059,Patient 59,68,Female,Pediatrics,Depression,2025-05-01,2025-05-13,Surgery
+060,Patient 60,25,Male,Urology,Kidney Stones,2025-05-01,2025-05-08,Surgery
+061,Patient 61,23,Male,Ophthalmology,Depression,2025-04-18,2025-05-02,Radiation
+062,Patient 62,71,Female,Dermatology,Kidney Stones,2025-04-16,2025-04-19,Radiation
+063,Patient 63,19,Male,Cardiology,Cataracts,2025-04-06,2025-04-11,Inhaler
+064,Patient 64,62,Female,Urology,Trauma,2025-04-22,2025-05-04,Inhaler
+065,Patient 65,30,Male,Orthopedics,Heart Failure,2025-04-21,2025-04-24,Therapy
+066,Patient 66,38,Female,Dermatology,Cataracts,2025-04-01,2025-04-02,Inhaler
+067,Patient 67,72,Female,Dermatology,Heart Failure,2025-05-01,2025-05-05,Inhaler
+068,Patient 68,80,Male,General Medicine,Cataracts,2025-04-29,2025-05-13,Inhaler
+069,Patient 69,56,Female,Dermatology,Asthma,2025-04-24,2025-04-29,Therapy
+070,Patient 70,53,Female,Psychiatry,Hypertension,2025-04-22,2025-04-28,Therapy
+071,Patient 71,31,Female,Pediatrics,Skin Infection,2025-04-16,2025-04-29,Medication
+072,Patient 72,77,Female,Pediatrics,Depression,2025-04-12,2025-04-18,Surgery
+073,Patient 73,18,Male,Cardiology,Cataracts,2025-04-13,2025-04-14,Medication
+074,Patient 74,72,Female,Pediatrics,Trauma,2025-05-01,2025-05-12,Inhaler
+075,Patient 75,71,Male,Pediatrics,Ear Infection,2025-04-10,2025-04-11,Inhaler
+076,Patient 76,20,Male,Orthopedics,Hypertension,2025-04-21,2025-04-24,Radiation
+077,Patient 77,52,Female,ENT,Skin Infection,2025-04-12,2025-04-14,Therapy
+078,Patient 78,30,Female,Ophthalmology,Heart Failure,2025-04-19,2025-04-24,Medication
+079,Patient 79,76,Female,Ophthalmology,Trauma,2025-04-05,2025-04-12,Radiation
+080,Patient 80,41,Male,Plastic Surgery,Asthma,2025-04-29,2025-04-30,Radiation
+081,Patient 81,52,Female,Cardiology,Ear Infection,2025-05-01,2025-05-11,Radiation
+082,Patient 82,32,Female,General Medicine,Hypertension,2025-04-21,2025-04-29,Inhaler
+083,Patient 83,71,Female,General Medicine,Depression,2025-04-26,2025-04-30,Therapy
+084,Patient 84,41,Male,Orthopedics,Skin Infection,2025-04-16,2025-04-21,Medication
+085,Patient 85,50,Male,Urology,Asthma,2025-04-14,2025-04-23,Medication
+086,Patient 86,27,Male,Orthopedics,Kidney Stones,2025-04-22,2025-04-24,Surgery
+087,Patient 87,46,Male,Cardiology,Trauma,2025-04-14,2025-04-27,Inhaler
+088,Patient 88,67,Male,Pediatrics,Ear Infection,2025-04-02,2025-04-03,Radiation
+089,Patient 89,64,Male,Psychiatry,Heart Failure,2025-04-11,2025-04-12,Medication
+090,Patient 90,60,Female,Pediatrics,Skin Infection,2025-04-29,2025-04-30,Surgery
+091,Patient 91,79,Female,Urology,Skin Infection,2025-04-22,2025-05-04,Surgery
+092,Patient 92,67,Female,Psychiatry,Fractured Leg,2025-04-06,2025-04-16,Surgery
+093,Patient 93,24,Female,Dermatology,Depression,2025-04-06,2025-04-17,Inhaler
+094,Patient 94,67,Female,Urology,Kidney Stones,2025-04-26,2025-04-28,Surgery
+095,Patient 95,32,Male,Psychiatry,Ear Infection,2025-04-21,2025-04-28,Radiation
+096,Patient 96,72,Male,Urology,Hypertension,2025-04-23,2025-04-25,Surgery
+097,Patient 97,20,Male,Pediatrics,Hypertension,2025-04-10,2025-04-15,Medication
+098,Patient 98,57,Female,General Medicine,Asthma,2025-04-19,2025-04-22,Medication
+099,Patient 99,71,Male,Orthopedics,Hypertension,2025-04-29,2025-05-11,Surgery
+100,Patient 100,46,Female,Psychiatry,Kidney Stones,2025-04-26,2025-05-03,Surgery
